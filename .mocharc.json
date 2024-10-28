@@ -1,0 +1,6 @@
+{
+    "extension": ["js"],
+    "spec": "src/tests/**/*.test.js",
+    "timeout": 5000,
+    "exit": true
+  }
